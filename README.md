@@ -1,7 +1,6 @@
 ## Building the future of intelligent digital companions + social media automation  
 
 ## GitHub Stats  
-![Amari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarifields&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarifields&layout=compact&theme=radical)  
 
 
