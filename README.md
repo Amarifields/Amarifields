@@ -1,9 +1,8 @@
-## I'm Amari Fields (developer with 9+ years experience). Building the future of intelligent digital companions + social media automation  
+## Building the future of intelligent digital companions + social media automation  
 
 ## GitHub Stats  
 ![Amari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amarifields&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Amarifields&layout=compact&theme=radical)  
-![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amarifields&theme=radical)  
 
 
 ## Tech Stack  
